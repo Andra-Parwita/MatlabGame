@@ -1,3 +1,3 @@
-Made for a university project (Comp Sci Sem 1)
+Rock Paper Scissors Game
 
 Made with matlab
